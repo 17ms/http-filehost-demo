@@ -1,8 +1,8 @@
 /*
 
-Simple HTTP-server to serve files asynchronously to the recipients. Built mostly with Hyper & Tokio.
+Really simple HTTP-server to serve files asynchronously to the recipients. Fileroot defaults to ./data.
 
-Files get served automatically from a hardcoded path ./data.
+Usage: ./http-filehost-demo --rootdir <PATH>
 
 */
 
