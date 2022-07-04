@@ -184,7 +184,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "http-filehost"
+name = "http-filehost-demo"
 version = "0.1.0"
 dependencies = [
  "clap",
