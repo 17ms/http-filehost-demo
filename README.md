@@ -3,6 +3,6 @@
 Really simple HTTP-server to serve files asynchronously to the recipients. Fileroot defaults to ./data.
 
 ```shell
-./http-filehost --rootdir <PATH>
+./http-filehost -r <PATH>
 ```
 
